@@ -15,6 +15,5 @@
 .env*.local
 /.vscode
 /.vs
-/.yarn
 
 node_modules
