@@ -16,3 +16,5 @@
 /.vscode
 /.vs
 /.yarn
+
+node_modules
